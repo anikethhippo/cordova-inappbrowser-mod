@@ -718,3 +718,4 @@ iab.open('http://url-that-fails-whitelist.com', 'random_string'); // loads in th
 iab.open('http://url-that-fails-whitelist.com', 'random_string', 'location=no'); // loads in the InAppBrowser, no location bar
 
 ```
+# cordova-inappbrowser-mod
